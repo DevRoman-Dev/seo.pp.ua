@@ -1,0 +1,15 @@
+# seo.pp.ua
+
+> SEO та GEO агенція: просування в Google і оптимізація під генеративні пошукові системи (ChatGPT, Gemini, Perplexity, AI Overviews).
+
+## Сторінки
+- [Головна](https://seo.pp.ua/): позиціонування, підхід, результати, FAQ.
+- [Послуги](https://seo.pp.ua/services): повний перелік SEO та GEO сервісів з описами і цінами.
+- [Блог](https://seo.pp.ua/blog): гайди та чеклисти про SEO, GEO/LLM, Core Web Vitals, семантику, лінкбілдинг і аналітику.
+- [Контакти](https://seo.pp.ua/contact): безкоштовна діагностика сайту, hello@seo.pp.ua.
+
+## Послуги
+SEO-аудит, просування в Google, локальне SEO та Google Business, GEO (Generative Engine Optimization), llms.txt та AI-доступність, AEO (оптимізація під відповіді), Core Web Vitals, структуровані дані Schema.org, індексація і sitemap, SEO-контент, лінкбілдинг, аналітика GA4 та Search Console.
+
+## Контакти
+Email: hello@seo.pp.ua. Робочі години: Пн–Пт, 10:00–19:00 (Київ).
